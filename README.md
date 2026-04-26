@@ -25,7 +25,7 @@
 | Kali | Aircraft | Tanker | 76 | ★1 | 1 |
 | Tesla | Missile | DPS | 82 | ★1 | 2 |
 | McGregor | Missile | Tanker | 73 | ★1 | 3 |
-| Swift | Missile | Support | 70 | ★2 | 0 |
+| Swift | Missile | DPS | 70 | ★2 | 0 |
 | Schuyler | Aircraft | DPS | 70 | ★0 | 1 |
 | Lucius | Aircraft | Tanker | 63 | ★0 | 0 |
 | Morrison | Aircraft | DPS | 63 | ★0 | 0 |
@@ -96,11 +96,11 @@
 
 2. **DPS (Crosshair icon)**
    - High damage output. Place in **back row** to protect from frontline.
-   - Heroes: Kimberly, DVA, Tesla, Schuyler, Morrison, etc.
+   - Heroes: Kimberly, DVA, Tesla, Swift, Schuyler, Morrison, etc.
 
 3. **Support (Plus icon)**
    - Buffs allies or strengthens defenses. Place in **back row center**.
-   - Heroes: Marshall, Swift, Monica, etc.
+   - Heroes: Marshall, Monica, etc.
 
 ***
 
@@ -130,7 +130,7 @@ Front Right : Mason        (SSR Tank/DPS      / Lv.101 / ★4) ← Temp until UR
 Front Left  : McGregor     (UR  Missile/Tanker / Lv.73  / ★1)
 
 Back  Right : Tesla        (UR  Missile/DPS    / Lv.82  / ★1)
-Back  Center: Swift        (UR  Missile/Support / Lv.70 / ★2)
+Back  Center: Swift        (UR  Missile/DPS    / Lv.70  / ★2)
 Back  Left  : Monica       (SSR Tank/Support   / Lv.81  / ★3) ← Temp until UR Missile acquired
 ```
 
