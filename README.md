@@ -26,7 +26,7 @@
 | Tesla | Missile | DPS | 82 | ★1 | 2 |
 | McGregor | Missile | Tanker | 73 | ★1 | 3 |
 | Swift | Missile | Support | 70 | ★2 | 0 |
-| Schuyler | Aircraft | Support | 70 | ★0 | 1 |
+| Schuyler | Aircraft | DPS | 70 | ★0 | 1 |
 | Lucius | Aircraft | Tanker | 63 | ★0 | 0 |
 | Morrison | Aircraft | DPS | 63 | ★0 | 0 |
 
@@ -96,11 +96,11 @@
 
 2. **DPS (Crosshair icon)**
    - High damage output. Place in **back row** to protect from frontline.
-   - Heroes: Kimberly, DVA, Tesla, Morrison, etc.
+   - Heroes: Kimberly, DVA, Tesla, Schuyler, Morrison, etc.
 
 3. **Support (Plus icon)**
    - Buffs allies or strengthens defenses. Place in **back row center**.
-   - Heroes: Marshall, Swift, Monica, Schuyler, etc.
+   - Heroes: Marshall, Swift, Monica, etc.
 
 ***
 
@@ -143,12 +143,12 @@ Back  Left  : Monica       (SSR Tank/Support   / Lv.81  / ★3) ← Temp until U
 ```
 [ Enemy Direction →→→ ]
 
-Front Right : Kali         (UR Aircraft/Tanker  / Lv.76  / ★1)
-Front Left  : Lucius       (UR Aircraft/Tanker  / Lv.63  / ★0)
+Front Right : Kali         (UR Aircraft/Tanker / Lv.76  / ★1)
+Front Left  : Lucius       (UR Aircraft/Tanker / Lv.63  / ★0)
 
-Back  Right : DVA          (UR Aircraft/DPS     / Lv.100 / ★2)
-Back  Center: Schuyler     (UR Aircraft/Support / Lv.70  / ★0)
-Back  Left  : Morrison     (UR Aircraft/DPS     / Lv.63  / ★0) 🆕
+Back  Right : DVA          (UR Aircraft/DPS    / Lv.100 / ★2)
+Back  Center: Schuyler     (UR Aircraft/DPS    / Lv.70  / ★0)
+Back  Left  : Morrison     (UR Aircraft/DPS    / Lv.63  / ★0) 🆕
 ```
 
 > 💡 Full UR Aircraft squad! 🎉 Lucius & Morrison growth = stronger over time
