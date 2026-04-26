@@ -71,7 +71,7 @@
 | **5** | **Statesman** | Squad 1 entry | Lv.93 / ★0 / 0 shards | — | Level up + star-up → replace Violet 🎯 |
 | **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | 4 | Level up also needed |
 | **7** | **Lucius** | Squad entry | Lv.63 / ★0 / 0 shards | — | Leveling in progress |
-| **8** | **Morrison** | Leveling start | Lv.63 / ★0 / 0 shards | — | New UR 🆕 Fighter/DPS |
+| **8** | **Morrison** | Leveling start | Lv.63 / ★0 / 0 shards | — | New UR 🆕 Aircraft/DPS |
 
 > 💡 Total shards needed to complete Squad 1 (all ★4) + Kimberly ★5 = **24 shards**
 > Shards obtainable via: Alliance Shop / Events / Secret Missions
@@ -100,7 +100,7 @@
 
 3. **Support (Plus icon)**
    - Buffs allies or strengthens defenses. Place in **back row center**.
-   - Heroes: Marshall, Swift, Monica, Skyler, etc.
+   - Heroes: Marshall, Swift, Monica, Schuyler, etc.
 
 ***
 
@@ -126,29 +126,29 @@ Back  Left  : Violet       (SSR Tank/Tanker  / Lv.115 / ★4) ← Replace with S
 ```
 [ Enemy Direction →→→ ]
 
-Front Right : Mason        (SSR Tank/DPS     / Lv.101 / ★4) ← Temp until UR Missile Tanker
-Front Left  : McGregor     (UR  Missile/Tanker / Lv.73 / ★1)
+Front Right : Mason        (SSR Tank/DPS      / Lv.101 / ★4) ← Temp until UR Missile Tanker
+Front Left  : McGregor     (UR  Missile/Tanker / Lv.73  / ★1)
 
-Back  Right : Tesla        (UR  Missile/DPS   / Lv.82 / ★1)
+Back  Right : Tesla        (UR  Missile/DPS    / Lv.82  / ★1)
 Back  Center: Swift        (UR  Missile/Support / Lv.70 / ★2)
-Back  Left  : Monica       (SSR Fighter/Support / Lv.81 / ★3) ← Temp until UR Missile acquired
+Back  Left  : Monica       (SSR Tank/Support   / Lv.81  / ★3) ← Temp until UR Missile acquired
 ```
 
 > 💡 Need 2 more UR Missile heroes to complete full UR composition
 
 ***
 
-## 🪖 Squad 3 — Sweep / Resource Gathering | Class: Fighter ⚡ Full UR!
+## 🪖 Squad 3 — Sweep / Resource Gathering | Class: Aircraft ⚡ Full UR!
 
 ```
 [ Enemy Direction →→→ ]
 
-Front Right : Kali         (UR Fighter/Tanker / Lv.76 / ★1)
-Front Left  : Lucius       (UR Fighter/Tanker / Lv.63 / ★0)
+Front Right : Kali         (UR Aircraft/Tanker  / Lv.76  / ★1)
+Front Left  : Lucius       (UR Aircraft/Tanker  / Lv.63  / ★0)
 
-Back  Right : DVA          (UR Fighter/DPS    / Lv.100 / ★2)
-Back  Center: Skyler       (UR Fighter/Support / Lv.70 / ★0)
-Back  Left  : Morrison     (UR Fighter/DPS    / Lv.63 / ★0) 🆕
+Back  Right : DVA          (UR Aircraft/DPS     / Lv.100 / ★2)
+Back  Center: Schuyler     (UR Aircraft/Support / Lv.70  / ★0)
+Back  Left  : Morrison     (UR Aircraft/DPS     / Lv.63  / ★0) 🆕
 ```
 
-> 💡 Full UR Fighter squad! 🎉 Lucius & Morrison growth = stronger over time
+> 💡 Full UR Aircraft squad! 🎉 Lucius & Morrison growth = stronger over time
