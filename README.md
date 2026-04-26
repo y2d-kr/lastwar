@@ -1,141 +1,154 @@
-# 라스트워 서바이벌 - 현황 정리
+# Last War: Survival — Status Overview
 
-## 📊 기본 정보
-- **본부 레벨**: 24
-- **과금 여부**: 무과금
-- **연맹**: 가입 완료
-- **목표**: 본부 25레벨 전에 **UR 영웅 모두 120레벨 / 4성 이상** 달성 🎯
+> 🎮 **Game ID**: General Y2D
 
-***
-
-## 🦸 영웅 현황
-
-### UR 영웅
-
-| 영웅 | 군종 | 역할 | 레벨 | 성 | 티어 조각 |
-|------|------|------|------|-----|---------|
-| 킴벌리 | 탱크 | 딜러 | 120 | 4성 | 0개 |
-| 머피 | 탱크 | 탱커 | 120 | 3성 | 1개 |
-| 마셜 | 탱크 | 서포터 | 120 | 3성 | 0개 |
-| 윌리엄스 | 탱크 | 탱커 | 120 | 2성 | 0개 |
-| DVA | 전투기 | 딜러 | 100 | 2성 | 1개 |
-| 스테이트먼 | 탱크 | 딜러 | 93 | 0성 | 0개 |
-| 칼리 | 전투기 | 탱커 | 76 | 1성 | 1개 |
-| 테슬라 | 미사일 | 딜러 | 82 | 1성 | 2개 |
-| 맥그리거 | 미사일 | 탱커 | 73 | 1성 | 3개 |
-| 스위프트 | 미사일 | 서포터 | 70 | 2성 | 0개 |
-| 스카일러 | 전투기 | 서포터 | 70 | 0성 | 1개 |
-| 루시우스 | 전투기 | 탱커 | 63 | 0성 | 0개 |
-| 모리슨 | 전투기 | 딜러 | 63 | 0성 | 0개 |
-
-### SSR 영웅
-
-| 영웅 | 군종 | 역할 | 레벨 | 성 | 티어 조각 |
-|------|------|------|------|-----|---------|
-| 바이올렛 | 탱크 | 탱커 | 115 | 4성 | 3개 |
-| 메이슨 | 탱크 | 딜러 | 101 | 4성 | 0개 |
-| 모니카 | 전투기 | 서포터 | 81 | 3성 | 2개 |
-| 케이지 | 전투기 | 탱커 | 62 | 2성 | 1개 |
-| 파하드 | 탱크 | 딜러 | 61 | 2성 | 2개 |
-| 리처드 | 탱크 | 딜러 | 52 | 2성 | 0개 |
-| 맥스웰 | 전투기 | 딜러 | 60 | 2성 | 0개 |
-| 사라 | 전투기 | 서포터 | 52 | 2성 | 2개 |
-| 스칼렛 | 탱크 | 탱커 | 60 | 1성 | 0개 |
-| 엘사 | 미사일 | 탱커 | 57 | 1성 | 1개 |
-| 블라즈 | 미사일 | 딜러 | 50 | 1성 | 2개 |
-| 베놈 | 미사일 | 딜러 | 50 | 0성 | 1개 |
-
-### SR 영웅
-
-| 영웅 | 군종 | 역할 | 레벨 | 성 | 티어 조각 |
-|------|------|------|------|-----|---------|
-| 케인 | 미사일 | 딜러 | 64 | 3성 | 3개 |
-| 검프 | 탱크 | 탱커 | 51 | 2성 | 2개 |
-| 암베르트 | 전투기 | 서포터 | 54 | 2성 | 2개 |
-| 로키 | 탱크 | 탱커 | 51 | 2성 | 2개 |
+## 📊 Basic Info
+- **HQ Level**: 24
+- **Pay-to-Win**: Free to Play (F2P)
+- **Alliance**: Joined
+- **Goal**: Max all UR heroes to **Lv.120 / 4-Star or above** before HQ Lv.25 🎯
 
 ***
 
-## 🎯 육성 우선순위
+## 🦸 Hero Roster
 
-| 순위 | 영웅 | 목표 | 현재 | 비고 |
-|------|------|------|------|------|
-| **1** | **킴벌리** | 5성 진급 | 120 / 4성 / 조각 0개 | 120레벨 완료! 조각만 모으면 됨 |
-| **2** | **머피** | 4성 진급 | 120 / 3성 / 조각 1개 | 120레벨 완료, 조각 추가 필요 |
-| **3** | **마셜** | 4성 진급 | 120 / 3성 / 조각 0개 | 120레벨 완료, 조각 필요 |
-| **4** | **윌리엄스** | 3성 진급 | 120 / 2성 / 조각 0개 | 레벨 완료, 성급만 필요 |
-| **5** | **스테이트먼** | 1부대 투입 | 93 / 0성 / 조각 0개 | 레벨업 + 성급 후 바이올렛 교체 타겟 🎯 |
-| **6** | **DVA** | 3성 진급 | 100 / 2성 / 조각 1개 | 레벨업도 필요 |
-| **7** | **루시우스** | 성장 후 부대 투입 | 63 / 0성 / 조각 0개 | 레벨업 진행 중 |
-| **8** | **모리슨** | 레벨업 시작 | 63 / 0성 / 조각 0개 | 신규 UR 영웅 🆕 전투기/딜러 |
+### UR Heroes
 
-> 💡 킴벌리·머피·마셜 조각은 **연맹 상점 / 이벤트 / 비밀임무**로 확보
-> 바이올렛은 육성 중단 (스테이트먼 성장 시 교체 예정)
+| Hero | Class | Role | Level | Star | Tier Shards |
+|------|-------|------|-------|------|-------------|
+| Kimberly | Tank | DPS | 120 | ★4 | 0 |
+| Murphy | Tank | Tanker | 120 | ★3 | 1 |
+| Marshall | Tank | Support | 120 | ★3 | 0 |
+| Williams | Tank | Tanker | 120 | ★2 | 0 |
+| DVA | Fighter | DPS | 100 | ★2 | 1 |
+| Statesman | Tank | DPS | 93 | ★0 | 0 |
+| Kali | Fighter | Tanker | 76 | ★1 | 1 |
+| Tesla | Missile | DPS | 82 | ★1 | 2 |
+| McGregor | Missile | Tanker | 73 | ★1 | 3 |
+| Swift | Missile | Support | 70 | ★2 | 0 |
+| Skyler | Fighter | Support | 70 | ★0 | 1 |
+| Lucius | Fighter | Tanker | 63 | ★0 | 0 |
+| Morrison | Fighter | DPS | 63 | ★0 | 0 |
 
-***
+### SSR Heroes
 
-## 🛡️ 아이콘별 역할 상세 설명
+| Hero | Class | Role | Level | Star | Tier Shards |
+|------|-------|------|-------|------|-------------|
+| Violet | Tank | Tanker | 115 | ★4 | 3 |
+| Mason | Tank | DPS | 101 | ★4 | 0 |
+| Monica | Fighter | Support | 81 | ★3 | 2 |
+| Cage | Fighter | Tanker | 62 | ★2 | 1 |
+| Fahad | Tank | DPS | 61 | ★2 | 2 |
+| Richard | Tank | DPS | 52 | ★2 | 0 |
+| Maxwell | Fighter | DPS | 60 | ★2 | 0 |
+| Sara | Fighter | Support | 52 | ★2 | 2 |
+| Scarlett | Tank | Tanker | 60 | ★1 | 0 |
+| Elsa | Missile | Tanker | 57 | ★1 | 1 |
+| Blaze | Missile | DPS | 50 | ★1 | 2 |
+| Venom | Missile | DPS | 50 | ★0 | 1 |
 
-1.  **방패 (방어형 / 탱커)**
-    * **역할**: 높은 생명력과 방어력을 바탕으로 아군의 피해를 대신 흡수합니다.
-    * **배치**: 무조건 **전열(앞줄)**에 배치해야 합니다.
-    * **보유 영웅**: 머피, 윌리엄스, 바이올렛, 스칼렛, 맥그리거, 칼리 등
+### SR Heroes
 
-2.  **폭발/조준점 (공격형 / 딜러)**
-    * **역할**: 강력한 화력으로 적에게 대미지를 입히는 핵심 공격 유닛입니다.
-    * **배치**: 방어력이 낮으므로 주로 **후열(뒷줄)**에 배치하여 보호해야 합니다.
-    * **보유 영웅**: 킴벌리, DVA, 테슬라, 메이슨, 모리슨 등
-
-3.  **플러스(+) (지원형 / 버퍼)**
-    * **역할**: 아군의 공격력을 높여주거나, 방어력을 강화하는 등 전투 보조 스킬을 사용합니다.
-    * **배치**: 공격형 영웅과 마찬가지로 몸이 약하기 때문에 **후열(특히 중앙)**에 배치하는 것이 가장 효율적입니다.
-    * **보유 영웅**: 마셜, 스위프트, 모니카 등
-
----
-
-## 🪖 1부대 — 주력 전투 (PvP)
-
-```
-[ 적 방향 →→→ ]
-
-전열 오른쪽: 머피         (UR 탱크/탱커 / 120레벨 / 3성)
-전열 왼쪽:  윌리엄스      (UR 탱크/탱커 / 120레벨 / 2성)
-
-후열 오른쪽: 킴벌리       (UR 탱크/딜러 / 120레벨 / 4성)
-후열 중앙:  마셜          (UR 탱크/서포터 / 120레벨 / 3성)
-후열 왼쪽:  바이올렛      (SSR 탱크/탱커 / 115레벨 / 4성) ← 스테이트먼 성장 시 교체 예정
-```
-
-> 💡 스테이트먼 성장 시 → **바이올렛 OUT, 스테이트먼 IN** [youtube](https://www.youtube.com/watch?v=qcWhAx4RiDQ)
+| Hero | Class | Role | Level | Star | Tier Shards |
+|------|-------|------|-------|------|-------------|
+| Kane | Missile | DPS | 64 | ★3 | 3 |
+| Gump | Tank | Tanker | 51 | ★2 | 2 |
+| Ambert | Fighter | Support | 54 | ★2 | 2 |
+| Rocky | Tank | Tanker | 51 | ★2 | 2 |
 
 ***
 
-## 🪖 2부대 — 혼합 전투 (PvE / 비밀임무)
+## 🎯 UR Hero Upgrade Priority
 
-```
-[ 적 방향 →→→ ]
+> 5 shards required per star upgrade
 
-전열 오른쪽: 메이슨      (SSR 탱크/딜러 / 101레벨 / 4성)
-전열 왼쪽:  맥그리거     (UR 미사일/탱커 / 73레벨 / 1성)
+| Priority | Hero | Goal | Current | Shards Needed | Notes |
+|----------|------|------|---------|--------------|-------|
+| **1** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | 5 | Lv.120 done! Collect shards only |
+| **2** | **Murphy** | ★4 | Lv.120 / ★3 / 1 shard | 4 | Lv.120 done, need 4 more shards |
+| **3** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | 5 | Lv.120 done, need 5 shards |
+| **4** | **Williams** | ★4 | Lv.120 / ★2 / 0 shards | 10 | Star-up only (2 upgrades needed) |
+| **5** | **Statesman** | Squad 1 entry | Lv.93 / ★0 / 0 shards | — | Level up + star-up → replace Violet 🎯 |
+| **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | 4 | Level up also needed |
+| **7** | **Lucius** | Squad entry | Lv.63 / ★0 / 0 shards | — | Leveling in progress |
+| **8** | **Morrison** | Leveling start | Lv.63 / ★0 / 0 shards | — | New UR 🆕 Fighter/DPS |
 
-후열 오른쪽: DVA         (UR 전투기/딜러 / 100레벨 / 2성)
-후열 중앙:  모니카       (SSR 전투기/서포터 / 81레벨 / 3성)
-후열 왼쪽:  테슬라       (UR 미사일/딜러 / 82레벨 / 1성)
-```
+> 💡 Total shards needed to complete Squad 1 (all ★4) + Kimberly ★5 = **24 shards**
+> Shards obtainable via: Alliance Shop / Events / Secret Missions
+
+## 🎯 SSR Hero Upgrade Priority
+
+| Priority | Hero | Goal | Reason |
+|----------|------|------|--------|
+| **1** | **Monica** | ★4+ | Long-term Squad 2 support — invest here |
+| **—** | Violet | Suspended | Will be replaced by Statesman (Squad 1) |
+| **—** | Mason | Suspended | Will be replaced when UR Missile Tanker acquired |
+
+> 💡 Violet & Mason are placeholder heroes — stop investing shards until UR replacements are ready.
 
 ***
 
-## 🪖 3부대 — 소탕 / 자원 수집
+## 🛡️ Role Guide
+
+1. **Tanker (Shield icon)**
+   - Absorbs damage with high HP/DEF. Always place in **front row**.
+   - Heroes: Murphy, Williams, McGregor, Kali, Lucius, etc.
+
+2. **DPS (Crosshair icon)**
+   - High damage output. Place in **back row** to protect from frontline.
+   - Heroes: Kimberly, DVA, Tesla, Morrison, etc.
+
+3. **Support (Plus icon)**
+   - Buffs allies or strengthens defenses. Place in **back row center**.
+   - Heroes: Marshall, Swift, Monica, Skyler, etc.
+
+***
+
+## 🪖 Squad 1 — Main Combat (PvP) | Class: Tank
 
 ```
-[ 적 방향 →→→ ]
+[ Enemy Direction →→→ ]
 
-전열 오른쪽: 칼리        (UR 전투기/탱커 / 76레벨 / 1성)
-전열 왼쪽:  케이지       (SSR 전투기/탱커 / 62레벨 / 2성)
+Front Right : Murphy       (UR Tank/Tanker   / Lv.120 / ★3)
+Front Left  : Williams     (UR Tank/Tanker   / Lv.120 / ★2)
 
-후열 오른쪽: 스위프트    (UR 미사일/서포터 / 70레벨 / 2성)
-후열 중앙:  스테이트먼   (UR 탱크/딜러 / 93레벨 / 0성)
-후열 왼쪽:  모리슨       (UR 전투기/딜러 / 63레벨 / 0성) 🆕
+Back  Right : Kimberly     (UR Tank/DPS      / Lv.120 / ★4)
+Back  Center: Marshall     (UR Tank/Support  / Lv.120 / ★3)
+Back  Left  : Violet       (SSR Tank/Tanker  / Lv.115 / ★4) ← Replace with Statesman when ready
 ```
 
-> 💡 루시우스·모리슨 성장 시 탱커/딜러 자리 교체 검토
+> 💡 When Statesman is ready → **Violet OUT, Statesman IN** [YouTube](https://www.youtube.com/watch?v=qcWhAx4RiDQ)
+
+***
+
+## 🪖 Squad 2 — Mixed Combat (PvE / Secret Missions) | Class: Missile
+
+```
+[ Enemy Direction →→→ ]
+
+Front Right : Mason        (SSR Tank/DPS     / Lv.101 / ★4) ← Temp until UR Missile Tanker
+Front Left  : McGregor     (UR  Missile/Tanker / Lv.73 / ★1)
+
+Back  Right : Tesla        (UR  Missile/DPS   / Lv.82 / ★1)
+Back  Center: Swift        (UR  Missile/Support / Lv.70 / ★2)
+Back  Left  : Monica       (SSR Fighter/Support / Lv.81 / ★3) ← Temp until UR Missile acquired
+```
+
+> 💡 Need 2 more UR Missile heroes to complete full UR composition
+
+***
+
+## 🪖 Squad 3 — Sweep / Resource Gathering | Class: Fighter ⚡ Full UR!
+
+```
+[ Enemy Direction →→→ ]
+
+Front Right : Kali         (UR Fighter/Tanker / Lv.76 / ★1)
+Front Left  : Lucius       (UR Fighter/Tanker / Lv.63 / ★0)
+
+Back  Right : DVA          (UR Fighter/DPS    / Lv.100 / ★2)
+Back  Center: Skyler       (UR Fighter/Support / Lv.70 / ★0)
+Back  Left  : Morrison     (UR Fighter/DPS    / Lv.63 / ★0) 🆕
+```
+
+> 💡 Full UR Fighter squad! 🎉 Lucius & Morrison growth = stronger over time
