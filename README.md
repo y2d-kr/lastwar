@@ -76,15 +76,15 @@
 
 ## 🎯 UR Hero Upgrade Priority
 
-> **Strategy: Complete Squad 1 full ★4 first, then Kimberly ★5**
+> **Strategy: Complete Squad 1 full ★4 first, then level Statesman to 120, then Kimberly ★5**
 
 | Priority | Hero | Goal | Current | Shards Needed | Notes |
 |----------|------|------|---------|--------------|-------|
 | **1** | **Murphy** | ★4 | Lv.120 / ★3 / 1 shard | 299 | Need 299 more shards (300 - 1) |
 | **2** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | 300 | Need 300 shards |
 | **3** | **Williams** | ★4 | Lv.120 / ★2 / 0 shards | 400 | Need 100 (★2→★3) + 300 (★3→★4) |
-| **4** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | 500 | After Squad 1 all ★4 |
-| **5** | **Statesman** | Lv.120 → Squad 1 | Lv.93 / ★0 | — | Reach Lv.120 first → replace Violet 🎯 |
+| **4** | **Statesman** | Lv.120 → Squad 1 | Lv.93 / ★0 | — | Reach Lv.120 → replace Violet 🎯 |
+| **5** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | 500 | After Statesman joins Squad 1 |
 | **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | 99 | Level up also needed |
 | **7** | **Lucius** | Squad entry | Lv.63 / ★0 | — | Leveling in progress |
 | **8** | **Morrison** | Leveling start | Lv.63 / ★0 | — | New UR 🆕 Aircraft/Dealer |
