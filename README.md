@@ -60,7 +60,7 @@
 
 ## ⭐ Star Upgrade Shard Cost
 
-> Each star upgrade requires **5 attempts**. Shards needed per attempt increase by tier.
+> Each star upgrade requires **5 attempts**. Cost per attempt depends on the tier.
 
 | Upgrade | Shards per attempt | Total (x5) |
 |---------|-------------------|------------|
@@ -78,14 +78,14 @@
 
 > **Strategy: Complete Squad 1 full ★4 first, then level Statesman to 120, then Kimberly ★5**
 
-| Priority | Hero | Goal | Current | Shards Needed | Notes |
-|----------|------|------|---------|--------------|-------|
-| **1** | **Murphy** | ★4 | Lv.120 / ★3 / 1 shard | 299 | Need 299 more shards (300 - 1) |
-| **2** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | 300 | Need 300 shards |
-| **3** | **Williams** | ★4 | Lv.120 / ★2 / 0 shards | 400 | Need 100 (★2→★3) + 300 (★3→★4) |
+| Priority | Hero | Goal | Current | Shards Needed | Calculation |
+|----------|------|------|---------|--------------|-------------|
+| **1** | **Murphy** | ★4 | Lv.120 / ★3 / 1 shard | **240** | 4 × 60 |
+| **2** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | **300** | 5 × 60 |
+| **3** | **Williams** | ★4 | Lv.120 / ★2 / 0 shards | **400** | (5×20) + (5×60) |
 | **4** | **Statesman** | Lv.120 → Squad 1 | Lv.93 / ★0 | — | Reach Lv.120 → replace Violet 🎯 |
-| **5** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | 500 | After Statesman joins Squad 1 |
-| **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | 99 | Level up also needed |
+| **5** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | **500** | 5 × 100 |
+| **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | **80** | 4 × 20 |
 | **7** | **Lucius** | Squad entry | Lv.63 / ★0 | — | Leveling in progress |
 | **8** | **Morrison** | Leveling start | Lv.63 / ★0 | — | New UR 🆕 Aircraft/Dealer |
 
