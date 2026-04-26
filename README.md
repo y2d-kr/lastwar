@@ -58,23 +58,40 @@
 
 ***
 
+## ⭐ Star Upgrade Shard Cost
+
+> Each star upgrade requires **5 attempts**. Shards needed per attempt increase by tier.
+
+| Upgrade | Shards per attempt | Total (x5) |
+|---------|-------------------|------------|
+| ★0 → ★1 | 5 | **25** |
+| ★1 → ★2 | 10 | **50** |
+| ★2 → ★3 | 20 | **100** |
+| ★3 → ★4 | 60 | **300** |
+| ★4 → ★5 | 100 | **500** |
+
+> 💡 Shards obtainable via: Alliance Shop / Events / Secret Missions
+
+***
+
 ## 🎯 UR Hero Upgrade Priority
 
-> 5 shards required per star upgrade
+> **Strategy: Complete Squad 1 full ★4 first, then Kimberly ★5**
 
 | Priority | Hero | Goal | Current | Shards Needed | Notes |
 |----------|------|------|---------|--------------|-------|
-| **1** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | 5 | Lv.120 done! Collect shards only |
-| **2** | **Murphy** | ★4 | Lv.120 / ★3 / 1 shard | 4 | Lv.120 done, need 4 more shards |
-| **3** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | 5 | Lv.120 done, need 5 shards |
-| **4** | **Williams** | ★4 | Lv.120 / ★2 / 0 shards | 10 | Star-up only (2 upgrades needed) |
-| **5** | **Statesman** | Squad 1 entry | Lv.93 / ★0 / 0 shards | — | Level up + star-up → replace Violet 🎯 |
-| **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | 4 | Level up also needed |
-| **7** | **Lucius** | Squad entry | Lv.63 / ★0 / 0 shards | — | Leveling in progress |
-| **8** | **Morrison** | Leveling start | Lv.63 / ★0 / 0 shards | — | New UR 🆕 Aircraft/Dealer |
+| **1** | **Murphy** | ★4 | Lv.120 / ★3 / 1 shard | 299 | Need 299 more shards (300 - 1) |
+| **2** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | 300 | Need 300 shards |
+| **3** | **Williams** | ★4 | Lv.120 / ★2 / 0 shards | 400 | Need 100 (★2→★3) + 300 (★3→★4) |
+| **4** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | 500 | After Squad 1 all ★4 |
+| **5** | **Statesman** | Lv.120 → Squad 1 | Lv.93 / ★0 | — | Reach Lv.120 first → replace Violet 🎯 |
+| **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | 99 | Level up also needed |
+| **7** | **Lucius** | Squad entry | Lv.63 / ★0 | — | Leveling in progress |
+| **8** | **Morrison** | Leveling start | Lv.63 / ★0 | — | New UR 🆕 Aircraft/Dealer |
 
-> 💡 Total shards needed to complete Squad 1 (all ★4) + Kimberly ★5 = **24 shards**
-> Shards obtainable via: Alliance Shop / Events / Secret Missions
+> ⚠️ **Statesman swap note**: UR ★0 base stats are higher than SSR ★4.
+> Recommend swapping Violet → Statesman once Statesman reaches **Lv.120**.
+> No need to wait for star upgrade before swapping!
 
 ## 🎯 SSR Hero Upgrade Priority
 
@@ -114,10 +131,10 @@ Front Left  : Williams     (UR Tank/Tanker   / Lv.120 / ★2)
 
 Back  Right : Kimberly     (UR Tank/Dealer   / Lv.120 / ★4)
 Back  Center: Marshall     (UR Tank/Support  / Lv.120 / ★3)
-Back  Left  : Violet       (SSR Tank/Tanker  / Lv.115 / ★4) ← Replace with Statesman when ready
+Back  Left  : Violet       (SSR Tank/Tanker  / Lv.115 / ★4) ← Replace with Statesman at Lv.120
 ```
 
-> 💡 When Statesman is ready → **Violet OUT, Statesman IN** [YouTube](https://www.youtube.com/watch?v=qcWhAx4RiDQ)
+> 💡 When Statesman reaches Lv.120 → **Violet OUT, Statesman IN** (0★ is fine!) [YouTube](https://www.youtube.com/watch?v=qcWhAx4RiDQ)
 
 ***
 
