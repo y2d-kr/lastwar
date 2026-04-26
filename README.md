@@ -53,8 +53,8 @@
 |------|-------|------|-------|------|-------------|
 | Kane | Missile | Dealer | 64 | ★3 | 3 |
 | Gump | Tank | Tanker | 51 | ★2 | 2 |
-| Rocky | Tank | Tanker | 51 | ★2 | 2 |
-| Ambert | Aircraft | Dealer | 54 | ★2 | 2 |
+| Loki | Tank | Tanker | 51 | ★2 | 2 |
+| Ambolt | Aircraft | Dealer | 54 | ★2 | 2 |
 
 ***
 
