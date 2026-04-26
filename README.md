@@ -20,15 +20,15 @@
 | Murphy | Tank | Tanker | 120 | ★3 | 1 |
 | Marshall | Tank | Support | 120 | ★3 | 0 |
 | Williams | Tank | Tanker | 120 | ★2 | 0 |
-| DVA | Fighter | DPS | 100 | ★2 | 1 |
+| DVA | Aircraft | DPS | 100 | ★2 | 1 |
 | Statesman | Tank | DPS | 93 | ★0 | 0 |
-| Kali | Fighter | Tanker | 76 | ★1 | 1 |
+| Kali | Aircraft | Tanker | 76 | ★1 | 1 |
 | Tesla | Missile | DPS | 82 | ★1 | 2 |
 | McGregor | Missile | Tanker | 73 | ★1 | 3 |
 | Swift | Missile | Support | 70 | ★2 | 0 |
-| Skyler | Fighter | Support | 70 | ★0 | 1 |
-| Lucius | Fighter | Tanker | 63 | ★0 | 0 |
-| Morrison | Fighter | DPS | 63 | ★0 | 0 |
+| Schuyler | Aircraft | Support | 70 | ★0 | 1 |
+| Lucius | Aircraft | Tanker | 63 | ★0 | 0 |
+| Morrison | Aircraft | DPS | 63 | ★0 | 0 |
 
 ### SSR Heroes
 
@@ -36,15 +36,15 @@
 |------|-------|------|-------|------|-------------|
 | Violet | Tank | Tanker | 115 | ★4 | 3 |
 | Mason | Tank | DPS | 101 | ★4 | 0 |
-| Monica | Fighter | Support | 81 | ★3 | 2 |
-| Cage | Fighter | Tanker | 62 | ★2 | 1 |
-| Fahad | Tank | DPS | 61 | ★2 | 2 |
+| Monica | Tank | Support | 81 | ★3 | 2 |
+| Cage | Aircraft | Tanker | 62 | ★2 | 1 |
+| Farhad | Tank | DPS | 61 | ★2 | 2 |
 | Richard | Tank | DPS | 52 | ★2 | 0 |
-| Maxwell | Fighter | DPS | 60 | ★2 | 0 |
-| Sara | Fighter | Support | 52 | ★2 | 2 |
+| Maxwell | Aircraft | DPS | 60 | ★2 | 0 |
+| Sarah | Aircraft | Support | 52 | ★2 | 2 |
 | Scarlett | Tank | Tanker | 60 | ★1 | 0 |
 | Elsa | Missile | Tanker | 57 | ★1 | 1 |
-| Blaze | Missile | DPS | 50 | ★1 | 2 |
+| Blaz | Missile | DPS | 50 | ★1 | 2 |
 | Venom | Missile | DPS | 50 | ★0 | 1 |
 
 ### SR Heroes
@@ -53,8 +53,8 @@
 |------|-------|------|-------|------|-------------|
 | Kane | Missile | DPS | 64 | ★3 | 3 |
 | Gump | Tank | Tanker | 51 | ★2 | 2 |
-| Ambert | Fighter | Support | 54 | ★2 | 2 |
 | Rocky | Tank | Tanker | 51 | ★2 | 2 |
+| Ambert | Aircraft | DPS | 54 | ★2 | 2 |
 
 ***
 
