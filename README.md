@@ -7,7 +7,33 @@
 - **Pay-to-Win**: Free to Play (F2P)
 - **Alliance**: Joined
 - **Season**: S2 ended — Oil War incoming ⏳
-- **Goal**: Max all UR heroes to **Lv.120 / 4-Star or above** before HQ Lv.25 🎯
+- **Goal**: Keep all Squad 1 heroes at **Lv.120 / ★4** (except Stetmann) before Oil War 🎯
+
+***
+
+## 🏗️ Military Facilities
+
+| Facility | Level |
+|----------|-------|
+| **HQ** | Lv.24 |
+| **1st Tech Center** | Lv.24 |
+| **Tank Center** | Lv.23 |
+| **Alliance Support Center** | Lv.23 |
+| **Barrier** | Lv.22 |
+| **Drill Ground** | Lv.21 / Lv.17 / Lv.17 |
+| **Barracks** | Lv.20 / Lv.18 / Lv.17 / Lv.17 |
+| **Squad 1** | Lv.17 |
+| **Squad 2** | Lv.16 |
+| **Squad 3** | Lv.16 |
+| **Hospital** | Lv.17 / Lv.15 / Lv.15 |
+| **Missile Center** | Lv.16 |
+| **Aircraft Center** | Lv.16 |
+| **Watchtower** | Lv.4 |
+| **Scout Plane** | Lv.4 / Lv.4 / Lv.4 |
+| **Emergency Center** | Lv.14 |
+| **Chip Lab** | Lv.14 |
+| **Equipment Factory** | Lv.15 |
+| **Tavern** | Lv.15 |
 
 ***
 
