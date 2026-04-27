@@ -21,14 +21,14 @@
 | Marshall | Tank | Support | 120 | ★3 | 0 |
 | Williams | Tank | Tanker | 120 | ★2 | 0 |
 | DVA | Aircraft | Dealer | 100 | ★2 | 1 |
-| Statesman | Tank | Dealer | 93 | ★0 | 0 |
-| Kali | Aircraft | Tanker | 76 | ★1 | 1 |
+| Stetmann | Tank | Dealer | 97 | ★0 | 0 |
+| Carlie | Aircraft | Tanker | 76 | ★1 | 1 |
 | Tesla | Missile | Dealer | 82 | ★1 | 2 |
 | McGregor | Missile | Tanker | 73 | ★1 | 3 |
 | Swift | Missile | Dealer | 70 | ★2 | 0 |
-| Schuyler | Aircraft | Dealer | 70 | ★0 | 1 |
-| Lucius | Aircraft | Tanker | 63 | ★0 | 0 |
-| Morrison | Aircraft | Dealer | 63 | ★0 | 0 |
+| Schuyler | Aircraft | Dealer | 71 | ★0 | 1 |
+| Lucius | Aircraft | Tanker | 68 | ★0 | 0 |
+| Morrison | Aircraft | Dealer | 67 | ★0 | 0 |
 
 ### SSR Heroes
 
