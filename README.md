@@ -13,15 +13,17 @@
 
 ## 🏗️ Military Facilities
 
+> 🚧 **Under Construction**: Tank Center → Lv.24 / Barracks → Lv.21
+
 | Facility | Level |
 |----------|-------|
 | **HQ** | Lv.24 |
 | **1st Tech Center** | Lv.24 |
-| **Tank Center** | Lv.23 |
+| **Tank Center** | Lv.23 🚧 → Lv.24 |
 | **Alliance Support Center** | Lv.23 |
 | **Barrier** | Lv.22 |
 | **Drill Ground** | Lv.21 / Lv.17 / Lv.17 |
-| **Barracks** | Lv.20 / Lv.18 / Lv.17 / Lv.17 |
+| **Barracks** | Lv.20 / Lv.18 / Lv.17 / Lv.17 🚧 → Lv.21 |
 | **Squad 1** | Lv.17 |
 | **Squad 2** | Lv.16 |
 | **Squad 3** | Lv.16 |
