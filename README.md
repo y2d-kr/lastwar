@@ -6,6 +6,7 @@
 - **HQ Level**: 24
 - **Pay-to-Win**: Free to Play (F2P)
 - **Alliance**: Joined
+- **Season**: S2 ended — Oil War incoming ⏳
 - **Goal**: Max all UR heroes to **Lv.120 / 4-Star or above** before HQ Lv.25 🎯
 
 ***
@@ -76,21 +77,21 @@
 
 ## 🎯 UR Hero Upgrade Priority
 
-> **Strategy: Complete Squad 1 full ★4 first, then level Statesman to 120, then Kimberly ★5**
+> **Strategy: Complete Squad 1 full ★4 first, then level Stetmann to 120, then Kimberly ★5**
 
 | Priority | Hero | Goal | Current | Shards Needed | Calculation |
 |----------|------|------|---------|--------------|-------------|
 | **1** | **Murphy** | ★4 | Lv.120 / ★3 / 1 shard | **240** | 4 × 60 |
 | **2** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | **300** | 5 × 60 |
 | **3** | **Williams** | ★4 | Lv.120 / ★2 / 0 shards | **400** | (5×20) + (5×60) |
-| **4** | **Statesman** | Lv.120 → Squad 1 | Lv.93 / ★0 | — | Reach Lv.120 → replace Violet 🎯 |
+| **4** | **Stetmann** | Lv.120 → Squad 1 | Lv.97 / ★0 | — | Reach Lv.120 → replace Violet 🎯 |
 | **5** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | **500** | 5 × 100 |
 | **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | **80** | 4 × 20 |
-| **7** | **Lucius** | Squad entry | Lv.63 / ★0 | — | Leveling in progress |
-| **8** | **Morrison** | Leveling start | Lv.63 / ★0 | — | New UR 🆕 Aircraft/Dealer |
+| **7** | **Lucius** | Squad entry | Lv.68 / ★0 | — | Leveling in progress |
+| **8** | **Morrison** | Leveling start | Lv.67 / ★0 | — | New UR 🆕 Aircraft/Dealer |
 
-> ⚠️ **Statesman swap note**: UR ★0 base stats are higher than SSR ★4.
-> Recommend swapping Violet → Statesman once Statesman reaches **Lv.120**.
+> ⚠️ **Stetmann swap note**: UR ★0 base stats are higher than SSR ★4.
+> Recommend swapping Violet → Stetmann once Stetmann reaches **Lv.120**.
 > No need to wait for star upgrade before swapping!
 
 ## 🎯 SSR Hero Upgrade Priority
@@ -98,7 +99,7 @@
 | Priority | Hero | Goal | Reason |
 |----------|------|------|--------|
 | **1** | **Monica** | ★4+ | Long-term Squad 2 support — invest here |
-| **—** | Violet | Suspended | Will be replaced by Statesman (Squad 1) |
+| **—** | Violet | Suspended | Will be replaced by Stetmann (Squad 1) |
 | **—** | Mason | Suspended | Will be replaced when UR Missile Tanker acquired |
 
 > 💡 Violet & Mason are placeholder heroes — stop investing shards until UR replacements are ready.
@@ -109,7 +110,7 @@
 
 1. **Tanker (Shield icon)**
    - Absorbs damage with high HP/DEF. Always place in **front row**.
-   - Heroes: Murphy, Williams, McGregor, Kali, Lucius, etc.
+   - Heroes: Murphy, Williams, McGregor, Carlie, Lucius, etc.
 
 2. **Dealer (Crosshair icon)**
    - High damage output. Place in **back row** to protect from frontline.
@@ -131,10 +132,10 @@ Front Left  : Williams     (UR Tank/Tanker   / Lv.120 / ★2)
 
 Back  Right : Kimberly     (UR Tank/Dealer   / Lv.120 / ★4)
 Back  Center: Marshall     (UR Tank/Support  / Lv.120 / ★3)
-Back  Left  : Violet       (SSR Tank/Tanker  / Lv.115 / ★4) ← Replace with Statesman at Lv.120
+Back  Left  : Violet       (SSR Tank/Tanker  / Lv.115 / ★4) ← Replace with Stetmann at Lv.120
 ```
 
-> 💡 When Statesman reaches Lv.120 → **Violet OUT, Statesman IN** (0★ is fine!) [YouTube](https://www.youtube.com/watch?v=qcWhAx4RiDQ)
+> 💡 When Stetmann reaches Lv.120 → **Violet OUT, Stetmann IN** (0★ is fine!) [YouTube](https://www.youtube.com/watch?v=qcWhAx4RiDQ)
 
 ***
 
@@ -160,12 +161,12 @@ Back  Left  : Monica       (SSR Tank/Support   / Lv.81  / ★3) ← Temp until U
 ```
 [ Enemy Direction →→→ ]
 
-Front Right : Kali         (UR Aircraft/Tanker / Lv.76  / ★1)
-Front Left  : Lucius       (UR Aircraft/Tanker / Lv.63  / ★0)
+Front Right : Carlie       (UR Aircraft/Tanker / Lv.76  / ★1)
+Front Left  : Lucius       (UR Aircraft/Tanker / Lv.68  / ★0)
 
 Back  Right : DVA          (UR Aircraft/Dealer / Lv.100 / ★2)
-Back  Center: Schuyler     (UR Aircraft/Dealer / Lv.70  / ★0)
-Back  Left  : Morrison     (UR Aircraft/Dealer / Lv.63  / ★0) 🆕
+Back  Center: Schuyler     (UR Aircraft/Dealer / Lv.71  / ★0)
+Back  Left  : Morrison     (UR Aircraft/Dealer / Lv.67  / ★0) 🆕
 ```
 
 > 💡 Full UR Aircraft squad! 🎉 Lucius & Morrison growth = stronger over time
