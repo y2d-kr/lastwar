@@ -6,8 +6,8 @@
 - **HQ Level**: 24
 - **Pay-to-Win**: Free to Play (F2P)
 - **Alliance**: Joined
-- **Season**: S2 ended — Oil War incoming ⏳
-- **Goal**: Keep all Squad 1 heroes at **Lv.120 / ★4** (except Stetmann) before Oil War 🎯
+- **Season**: 🛢️ Oil War (S2) — Day 57
+- **Goal**: Keep all Squad 1 heroes at **Lv.120 / ★4** (except Stetmann) | T8 troops ASAP 🎯
 
 ***
 
@@ -36,6 +36,18 @@
 | **Chip Lab** | Lv.14 |
 | **Equipment Factory** | Lv.15 |
 | **Tavern** | Lv.15 |
+
+## 🚧 Construction Priority (2 Queues)
+
+> ⚠️ Zombie Tier: **T10** — Current max troop: **T7** (Barracks Lv.20) — Target: **T8** (Barracks Lv.25)
+
+| Queue | Now | Next | After |
+|-------|-----|------|-------|
+| **Queue 1** | Tank Center Lv.24 🚧 | → **HQ Lv.25** | → Barrier Lv.23 |
+| **Queue 2** | Barracks Lv.21 🚧 | → **Lv.22 → 23 → 24 → 25** (use speedups!) | → Hospital upgrade |
+
+> 💡 Barracks Lv.25 unlocks **T8 troops** — use speedup items to finish ASAP!
+> 💡 Tank Center Lv.24 complete → immediately start **HQ Lv.25**!
 
 ***
 
