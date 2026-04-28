@@ -13,7 +13,7 @@
 
 ## 🏗️ Military Facilities
 
-> 🚧 **Under Construction**: Tank Center → Lv.24 / Barracks → Lv.21
+> 🚧 **Under Construction**: Tank Center → Lv.24 / Barracks → Lv.22
 
 | Facility | Level |
 |----------|-------|
@@ -44,11 +44,25 @@
 
 | Queue | Now | Next | After |
 |-------|-----|------|-------|
-| **Queue 1** | Tank Center Lv.24 🚧 | → **HQ Lv.25** | → Barrier Lv.23 |
+| **Queue 1** | Tank Center Lv.24 🚧 | → **HQ Lv.25** (즉시 시작!) | → Barrier Lv.23 |
 | **Queue 2** | Barracks Lv.21 🚧 | → **Lv.22 → 23 → 24 → 25** (use speedups!) | → Hospital upgrade |
 
 > 💡 Barracks Lv.25 unlocks **T8 troops** — use speedup items to finish ASAP!
 > 💡 Tank Center Lv.24 complete → immediately start **HQ Lv.25**!
+
+***
+
+## 🏛️ Minister Strategy
+
+> 서버 장관직을 활용해 건설/연구 속도를 극대화하는 전략
+
+| Minister | Effect | Best Timing |
+|----------|--------|-------------|
+| **🏗️ Construction Minister** | 건설 속도 대폭 증가 | 병영 22→25 연속 건설 / HQ 25 시작 시 |
+| **🔬 Science Minister** | 연구 속도 증가 | 테크 연구 시작할 때 |
+| **⚔️ Military Minister** | 훈련 속도 증가 | T8 병사 대량 훈련 시 |
+
+> 💡 루틴: 장관직 획득 → 건설부장관으로 다음 건설 즉시 시작 → 과학부장관으로 테크 연구 시작 → 만료 전 최대 활용!
 
 ***
 
@@ -125,11 +139,11 @@
 | **1** | **Murphy** | ★4 | Lv.120 / ★3 / 1 shard | **240** | 4 × 60 |
 | **2** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | **300** | 5 × 60 |
 | **3** | **Williams** | ★4 | Lv.120 / ★2 / 0 shards | **400** | (5×20) + (5×60) |
-| **4** | **Stetmann** | Lv.120 → Squad 1 | Lv.97 / ★0 | — | Reach Lv.120 → replace Violet 🎯 |
+| **4** | **Stetmann** | Lv.120 → Squad 1 | Lv.102 / ★0 | — | Reach Lv.120 → replace Violet 🎯 |
 | **5** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | **500** | 5 × 100 |
 | **6** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | **80** | 4 × 20 |
-| **7** | **Lucius** | Squad entry | Lv.68 / ★0 | — | Leveling in progress |
-| **8** | **Morrison** | Leveling start | Lv.67 / ★0 | — | New UR 🆕 Aircraft/Dealer |
+| **7** | **Lucius** | Squad entry | Lv.70 / ★0 | — | Leveling in progress |
+| **8** | **Morrison** | Leveling start | Lv.70 / ★0 | — | New UR 🆕 Aircraft/Dealer |
 
 > ⚠️ **Stetmann swap note**: UR ★0 base stats are higher than SSR ★4.
 > Recommend swapping Violet → Stetmann once Stetmann reaches **Lv.120**.
@@ -203,11 +217,11 @@ Back  Left  : Monica       (SSR Tank/Support   / Lv.81  / ★3) ← Temp until U
 [ Enemy Direction →→→ ]
 
 Front Right : Carlie       (UR Aircraft/Tanker / Lv.76  / ★1)
-Front Left  : Lucius       (UR Aircraft/Tanker / Lv.68  / ★0)
+Front Left  : Lucius       (UR Aircraft/Tanker / Lv.70  / ★0)
 
 Back  Right : DVA          (UR Aircraft/Dealer / Lv.100 / ★2)
 Back  Center: Schuyler     (UR Aircraft/Dealer / Lv.71  / ★0)
-Back  Left  : Morrison     (UR Aircraft/Dealer / Lv.67  / ★0) 🆕
+Back  Left  : Morrison     (UR Aircraft/Dealer / Lv.70  / ★0) 🆕
 ```
 
 > 💡 Full UR Aircraft squad! 🎉 Lucius & Morrison growth = stronger over time
