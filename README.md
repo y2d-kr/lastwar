@@ -131,19 +131,20 @@
 
 ## 🎯 UR Hero Upgrade Priority
 
-> **Strategy: Complete Squad 1 full ★4 → Kimberly ★5**
+> **Strategy: Squad 1 전체 ★4 완성 → Stetmann ★4 → Kimberly ★5**
 
 | Priority | Hero | Goal | Current | Shards Needed | Calculation |
 |----------|------|------|---------|--------------|-------------|
 | ✅ **Done** | **Murphy** | ★4 | Lv.120 / ★4 | — | Completed! 🎉 |
 | **1** | **Williams** | ★4 | Lv.120 / ★3 / 0 shards | **300** | 5 × 60 |
 | **2** | **Marshall** | ★4 | Lv.120 / ★3 / 0 shards | **300** | 5 × 60 |
-| **3** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | **500** | 5 × 100 |
-| **4** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | **80** | 4 × 20 |
-| **5** | **Lucius** | Squad entry | Lv.71 / ★0 | — | Leveling in progress |
-| **6** | **Morrison** | Leveling | Lv.71 / ★0 | — | Aircraft/Dealer |
+| **3** | **Stetmann** | ★4 | Lv.120 / ★1 / 0 shards | **450** | (5×10) + (5×20) + (5×60) |
+| **4** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | **500** | 5 × 100 |
+| **5** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | **80** | 4 × 20 |
+| **6** | **Lucius** | Squad entry | Lv.71 / ★0 | — | Leveling in progress |
+| **7** | **Morrison** | Leveling | Lv.71 / ★0 | — | Aircraft/Dealer |
 
-> 🎉 **Stetmann Lv.120 달성 → Squad 1 합류 완료!** UR ★1 스펩 > SSR ★4 스펩
+> 💡 Stetmann은 Squad 1 현역 딥러 — 빠를수록 Squad 1 전투력 직접 상승!
 
 ## 🎯 SSR Hero Upgrade Priority
 
