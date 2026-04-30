@@ -13,17 +13,18 @@
 
 ## 🏗️ Military Facilities
 
-> 🚧 **Under Construction**: Tank Center → Lv.24 / Barracks → Lv.22
+> 🚧 **Under Construction**: HQ → Lv.25 / Barracks → Lv.24
 
 | Facility | Level |
 |----------|-------|
 | **HQ** | Lv.24 |
 | **1st Tech Center** | Lv.24 |
-| **Tank Center** | Lv.23 🚧 → Lv.24 |
+| **2nd Tech Center** | Lv.11 |
+| **Tank Center** | Lv.24 |
 | **Alliance Support Center** | Lv.23 |
 | **Barrier** | Lv.22 |
 | **Drill Ground** | Lv.21 / Lv.17 / Lv.17 |
-| **Barracks** | Lv.21 / Lv.18 / Lv.17 / Lv.17 🚧 → Lv.22 |
+| **Barracks** | Lv.23 / Lv.18 / Lv.17 / Lv.17 🚧 → Lv.24 |
 | **Squad 1** | Lv.17 |
 | **Squad 2** | Lv.16 |
 | **Squad 3** | Lv.16 |
@@ -32,7 +33,6 @@
 | **Aircraft Center** | Lv.16 |
 | **Alert Tower** | Lv.4 |
 | **Recon Plane** | Lv.4 / Lv.4 / Lv.4 |
-| **Gear Center** | Lv.14 |
 | **Chip Lab** | Lv.14 |
 | **Equipment Factory** | Lv.15 |
 | **Tavern** | Lv.15 |
@@ -76,11 +76,11 @@
 | Kimberly | Tank | Dealer | 120 | ★4 | 0 |
 | Williams | Tank | Tanker | 120 | ★3 | 0 |
 | Marshall | Tank | Support | 120 | ★3 | 0 |
-| Stetmann | Tank | Dealer | 118 | ★1 | 0 |
+| Stetmann | Tank | Dealer | 120 | ★1 | 0 |
 | DVA | Aircraft | Dealer | 100 | ★2 | 1 |
 | Carlie | Aircraft | Tanker | 76 | ★1 | 2 |
 | Tesla | Missile | Dealer | 83 | ★1 | 2 |
-| McGregor | Missile | Tanker | 73 | ★1 | 3 |
+| McGregor | Missile | Tanker | 74 | ★1 | 3 |
 | Swift | Missile | Dealer | 70 | ★2 | 0 |
 | Lucius | Aircraft | Tanker | 71 | ★0 | 0 |
 | Schuyler | Aircraft | Dealer | 72 | ★0 | 1 |
