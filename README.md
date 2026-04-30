@@ -149,9 +149,10 @@
 
 | Priority | Hero | Goal | Reason |
 |----------|------|------|--------|
-| **1** | **Monica** | ★4+ | Long-term Squad 2 support — invest here |
-| **—** | Violet | Suspended | Replaced by Stetmann in Squad 1 |
-| **—** | Mason | Suspended | Will be replaced when UR Missile Tanker acquired |
+| **1** | **Violet** | ★5 장기 목표 | Squad 2 핵심 Tanker — 지속 투자 |
+| **2** | **Monica** | ★4+ | Squad 2 Support — 장기 투자 |
+| **3** | **Farhad** | 레벨업 | Squad 2 주력 Dealer |
+| **—** | Mason | Suspended | UR Missile Tanker 확보 시 교체 |
 
 ***
 
@@ -188,20 +189,20 @@ Back  Left  : Stetmann     (UR Tank/Dealer   / Lv.120 / ★1) 🆕 Violet OUT!
 
 ***
 
-## 🪖 Squad 2 — Mixed Combat (PvE / Secret Missions) | Class: Missile
+## 🪖 Squad 2 — PvE / Secret Missions | Class: SSR Tank ⏳ UR Missile 보유 시 교체 예정
 
 ```
 [ Enemy Direction →→→ ]
 
-Front Right : Mason        (SSR Tank/Dealer    / Lv.101 / ★4) ← Temp until UR Missile Tanker
-Front Left  : McGregor     (UR  Missile/Tanker / Lv.74  / ★1)
+Front Right : Violet    (SSR Tank/Tanker  / Lv.115 / ★4) ★ 핵심!
+Front Left  : Scarlett  (SSR Tank/Tanker  / Lv.60  / ★1)
 
-Back  Right : Tesla        (UR  Missile/Dealer / Lv.83  / ★1)
-Back  Center: Swift        (UR  Missile/Dealer / Lv.70  / ★2)
-Back  Left  : Monica       (SSR Tank/Support   / Lv.81  / ★3) ← Temp until UR Missile acquired
+Back  Right : Mason     (SSR Tank/Dealer  / Lv.101 / ★4)
+Back  Center: Monica    (SSR Tank/Support / Lv.81  / ★3)
+Back  Left  : Farhad    (SSR Tank/Dealer  / Lv.61  / ★2)
 ```
 
-> 💡 Need 2 more UR Missile heroes to complete full UR composition
+> 💡 UR Missile Tanker 2명 확보 시 → Missile 클래스로 전면 교체 예정
 
 ***
 
