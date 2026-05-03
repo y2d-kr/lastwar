@@ -20,7 +20,7 @@
 |----------|-------|
 | **HQ** | Lv.25 ✅ |
 | **1st Tech Center** | Lv.24 🚧 → Lv.25 |
-| **2nd Tech Center** | Lv.15 🚧 → Lv.16 |
+| **2nd Tech Center** | Lv.16 |
 | **Tank Center** | Lv.24 |
 | **Alliance Support Center** | Lv.23 |
 | **Barrier** | Lv.22 |
@@ -37,7 +37,7 @@
 | **Chip Lab** | Lv.15 |
 | **Gear Factory** | Lv.15 |
 | **Tavern** | Lv.15 |
-| **Builder's Hut** | Lv.17 |
+| **Builder's Hut** | Lv.17 🚧 → Lv.18 |
 | **Emergency Center** | Lv.15 |
 
 ## 🚧 Construction Priority (2 Queues)
