@@ -14,13 +14,13 @@
 
 ## 🏗️ Military Facilities
 
-> 🚧 **Under Construction**: 1st Tech Center → Lv.25 / 2nd Tech Center → Lv.16
+> 🚧 **Under Construction**: 1st Tech Center → Lv.25 / Builder's Hut → Lv.18
 
 | Facility | Level |
 |----------|-------|
 | **HQ** | Lv.25 ✅ |
 | **1st Tech Center** | Lv.24 🚧 → Lv.25 |
-| **2nd Tech Center** | Lv.16 |
+| **2nd Tech Center** | Lv.16 ✅ |
 | **Tank Center** | Lv.24 |
 | **Alliance Support Center** | Lv.23 |
 | **Barrier** | Lv.22 |
@@ -47,7 +47,7 @@
 | Queue | Now | Next | After |
 |-------|-----|------|-------|
 | **Queue 1** | 1st Tech Center Lv.25 🚧 | → Barrier Lv.23 | → Alliance Support Center Lv.24 |
-| **Queue 2** | 2nd Tech Center Lv.16 🚧 | → Barracks **Lv.25** (use speedups!) | → Hospital upgrade |
+| **Queue 2** | Builder's Hut Lv.18 🚧 | → Barracks **Lv.25** (use speedups!) | → Hospital upgrade |
 
 > 💡 Barracks Lv.25 unlocks **T8 troops** — use speedup items to finish ASAP!
 
