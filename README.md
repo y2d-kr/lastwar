@@ -17,26 +17,27 @@
 
 | Facility | Level |
 |----------|-------|
-| **HQ** | Lv.24 🚧 → Lv.25 |
-| **1st Tech Center** | Lv.24 |
-| **2nd Tech Center** | Lv.11 🆕 |
+| **HQ** | Lv.25 |
+| **1st Tech Center** | Lv.24 🚧 → Lv.25 |
+| **2nd Tech Center** | Lv.15 🚧 → Lv.16 |
 | **Tank Center** | Lv.24 |
 | **Alliance Support Center** | Lv.23 |
 | **Barrier** | Lv.22 |
-| **Drill Ground** | Lv.21 / Lv.17 / Lv.17 |
-| **Barracks** | Lv.23 / Lv.18 / Lv.17 / Lv.17 🚧 → Lv.24 |
+| **Drill Ground** | Lv.21 / Lv.18 / Lv.17 |
+| **Barracks** | Lv.24 / Lv.18 / Lv.18 / Lv.18 |
 | **Squad 1** | Lv.17 |
 | **Squad 2** | Lv.16 |
 | **Squad 3** | Lv.16 |
-| **Hospital** | Lv.17 / Lv.15 / Lv.15 |
+| **Hospital** | Lv.17 / Lv.16 / Lv.15 |
 | **Missile Center** | Lv.16 |
 | **Aircraft Center** | Lv.16 |
 | **Alert Tower** | Lv.4 |
 | **Recon Plane** | Lv.4 / Lv.4 / Lv.4 |
-| **Chip Lab** | Lv.14 |
-| **Equipment Factory** | Lv.15 |
+| **Chip Lab** | Lv.15 |
+| **Gear Factory** | Lv.15 |
 | **Tavern** | Lv.15 |
 | **Builder's Hut** | Lv.17 |
+| **Emergency Center** | Lv.15 |
 
 ## 🚧 Construction Priority (2 Queues)
 
@@ -71,19 +72,19 @@
 
 | Hero | Class | Role | Level | Star | Tier Shards |
 |------|-------|------|-------|------|-------------|
-| Murphy | Tank | Tanker | 120 | ★4 | 0 |
+| Murphy | Tank | Tanker | 121 | ★4 | 0 |
 | Kimberly | Tank | Dealer | 120 | ★4 | 0 |
 | Williams | Tank | Tanker | 120 | ★3 | 0 |
 | Marshall | Tank | Support | 120 | ★3 | 0 |
 | Stetmann | Tank | Dealer | 120 | ★1 | 0 |
 | DVA | Aircraft | Dealer | 100 | ★2 | 1 |
-| Carlie | Aircraft | Tanker | 76 | ★1 | 2 |
+| Carlie | Aircraft | Tanker | 85 | ★1 | 2 |
+| McGregor | Missile | Tanker | 76 | ★1 | 3 |
 | Tesla | Missile | Dealer | 83 | ★1 | 2 |
-| McGregor | Missile | Tanker | 74 | ★1 | 3 |
-| Swift | Missile | Dealer | 70 | ★2 | 0 |
-| Lucius | Aircraft | Tanker | 71 | ★0 | 0 |
-| Schuyler | Aircraft | Dealer | 72 | ★0 | 1 |
-| Morrison | Aircraft | Dealer | 71 | ★0 | 0 |
+| Swift | Missile | Dealer | 72 | ★2 | 0 |
+| Lucius | Aircraft | Tanker | 80 | ★0 | 0 |
+| Schuyler | Aircraft | Dealer | 80 | ★0 | 1 |
+| Morrison | Aircraft | Dealer | 80 | ★0 | 0 |
 
 ### SSR Heroes
 
@@ -92,21 +93,21 @@
 | Violet | Tank | Tanker | 115 | ★4 | 4 |
 | Mason | Tank | Dealer | 101 | ★4 | 0 |
 | Monica | Tank | Support | 81 | ★3 | 2 |
-| Farhad | Tank | Dealer | 61 | ★2 | 2 |
+| Farhad | Tank | Dealer | 70 | ★2 | 2 |
 | Cage | Aircraft | Tanker | 62 | ★2 | 2 |
 | Richard | Tank | Dealer | 60 | ★2 | 1 |
 | Sarah | Aircraft | Support | 60 | ★2 | 3 |
+| Scarlett | Tank | Tanker | 72 | ★1 | 1 |
 | Maxwell | Aircraft | Dealer | 60 | ★2 | 0 |
-| Scarlett | Tank | Tanker | 60 | ★1 | 1 |
-| Elsa | Missile | Tanker | 61 | ★1 | 4 |
+| Elsa | Missile | Tanker | 61 | ★2 | 0 |
 | Blaz | Missile | Dealer | 60 | ★1 | 2 |
-| Venom | Missile | Dealer | 60 | ★1 | 0 |
+| Venom | Missile | Dealer | 56 | ★1 | 0 |
 
 ### SR Heroes
 
 | Hero | Class | Role | Level | Star | Tier Shards |
 |------|-------|------|-------|------|-------------|
-| Kane | Missile | Dealer | 67 | ★3 | 3 |
+| Kane | Missile | Dealer | 68 | ★3 | 3 |
 | Gump | Tank | Tanker | 51 | ★2 | 2 |
 | Loki | Tank | Tanker | 51 | ★2 | 2 |
 | Ambolt | Aircraft | Dealer | 54 | ★2 | 3 |
