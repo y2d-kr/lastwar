@@ -8,7 +8,7 @@
 - **Alliance**: Joined
 - **Season**: 🛢️ Oil War (S2)
 - **Current Power**: ~30M
-- **Goal**: HQ 25 유지 — Squad 1 전체 Lv.125 표준화 🎯
+- **Goal**: Maintain HQ 25 — Standardize all Squad 1 heroes to Lv.125 🎯
 
 ***
 
@@ -55,27 +55,27 @@
 
 ## 🏛️ Minister Strategy
 
-> 서버 장관직을 활용해 건설/연구 속도를 극대화하는 전략
+> Maximize construction/research speed by utilizing server minister positions
 
 | Minister | Effect | Best Timing |
 |----------|--------|-------------|
-| **🏗️ Construction Minister** | 건설 속도 대폭 증가 | 병영 25 연속 건설 시 |
-| **🔬 Science Minister** | 연구 속도 증가 | 2nd 테크 센터 활용 시 |
-| **⚔️ Military Minister** | 훈련 속도 증가 | T8 병사 대량 훈련 시 |
+| **🏗️ Construction Minister** | Greatly increases construction speed | During consecutive Barracks upgrades |
+| **🔬 Science Minister** | Increases research speed | When utilizing 2nd Tech Center |
+| **⚔️ Military Minister** | Increases training speed | When mass training T8 troops |
 
-> 💡 루틴: 장관직 획득 → 건설부장관으로 다음 건설 즉시 시작 → 과학부장관으로 테크 연구 시작 → 만료 전 최대 활용!
+> 💡 Routine: Obtain minister position → Start next construction immediately as Construction Minister → Start tech research as Science Minister → Maximize usage before expiry!
 
 ***
 
 ## 🎯 Overall Strategy
 
-> **현재 전투력 ~30M — HQ 25 유지하면서 단계적 성장**
+> **Current Power ~30M — Steady growth while maintaining HQ 25**
 
-| Squad | 전략 | 세부 |
-|-------|------|------|
-| **Squad 1** | 표준화 집중 | 전체 영웅 Lv.125 목표 🎯 |
-| **Squad 2** | 현 유지 | 선술집 영웅 등장 시만 조각 적용. UR Missile 2명 확보 시 전면 교체 🔄 |
-| **Squad 3** | 지속 레벨업 | 전체 UR 구성 → 모두 Lv.125 목표 (후순위) |
+| Squad | Strategy | Details |
+|-------|----------|---------|
+| **Squad 1** | Standardization focus | All heroes target Lv.125 🎯 |
+| **Squad 2** | Maintain current | Apply shards only when heroes appear in Tavern draws. Full replacement when 2 UR Missile heroes obtained 🔄 |
+| **Squad 3** | Continuous leveling | Full UR composition → All heroes target Lv.125 (lower priority) |
 
 ***
 
@@ -145,33 +145,33 @@
 
 ## 🎯 UR Hero Upgrade Priority
 
-> **Strategy: Squad 1 전체 Lv.125 + ★4 완성 → Stetmann ★4 → Kimberly ★5**
+> **Strategy: Complete all Squad 1 heroes at Lv.125 + ★4 → Stetmann ★4 → Kimberly ★5**
 
 | Priority | Hero | Goal | Current | Shards Needed | Calculation |
 |----------|------|------|---------|--------------|-------------|
 | ✅ **Done** | **Murphy** | ★4 | Lv.121 / ★4 | — | Completed! 🎉 |
 | **1** | **Williams** | Lv.125 / ★4 | Lv.120 / ★3 / 0 shards | **300** | 5 × 60 |
 | **2** | **Marshall** | Lv.125 / ★4 | Lv.120 / ★3 / 0 shards | **300** | 5 × 60 |
-| **3** | **Murphy** | Lv.125 | Lv.121 / ★4 | — | 레벨업 진행 중 |
-| **4** | **Kimberly** | Lv.125 | Lv.120 / ★4 | — | 레벨업 진행 중 |
+| **3** | **Murphy** | Lv.125 | Lv.121 / ★4 | — | Leveling in progress |
+| **4** | **Kimberly** | Lv.125 | Lv.120 / ★4 | — | Leveling in progress |
 | **5** | **Stetmann** | ★4 | Lv.120 / ★1 / 0 shards | **450** | (5×10) + (5×20) + (5×60) |
 | **6** | **Kimberly** | ★5 | Lv.120 / ★4 / 0 shards | **500** | 5 × 100 |
 | **7** | **DVA** | ★3 | Lv.100 / ★2 / 1 shard | **80** | 4 × 20 |
-| **후순위** | **Lucius** | Lv.125 | Lv.80 / ★0 | — | Squad 3 지속 레벨업 |
-| **후순위** | **Schuyler** | Lv.125 | Lv.80 / ★0 | — | Squad 3 지속 레벨업 |
-| **후순위** | **Morrison** | Lv.125 | Lv.80 / ★0 | — | Squad 3 지속 레벨업 |
+| **Low priority** | **Lucius** | Lv.125 | Lv.80 / ★0 | — | Squad 3 continuous leveling |
+| **Low priority** | **Schuyler** | Lv.125 | Lv.80 / ★0 | — | Squad 3 continuous leveling |
+| **Low priority** | **Morrison** | Lv.125 | Lv.80 / ★0 | — | Squad 3 continuous leveling |
 
-> 💡 Squad 3은 전체 UR 구성 — 레벨업은 지속적으로 진행, 조각 투자는 후순위
+> 💡 Squad 3 is full UR — continuous leveling, shard investment is lower priority
 
 ## 🎯 SSR Hero Upgrade Priority
 
 | Priority | Hero | Goal | Reason |
 |----------|------|------|--------|
-| **1** | **Violet** | ★5 장기 목표 | Squad 2 핵심 Tanker — 지속 투자 |
-| **2** | **Monica** | ★4+ | Squad 2 Support — 장기 투자 |
-| **3** | **Farhad** | 레벨업 | Squad 2 주력 Dealer |
-| **—** | 선술집 영웅 | 조각 등장 시만 적용 | 해당 SSR 영웅 등장 시 바로 적용 |
-| **—** | Mason | Suspended | UR Missile Tanker 확보 시 교체 |
+| **1** | **Violet** | ★5 long-term | Squad 2 core Tanker — continuous investment |
+| **2** | **Monica** | ★4+ | Squad 2 Support — long-term investment |
+| **3** | **Farhad** | Leveling | Squad 2 main Dealer |
+| **—** | Tavern heroes | Apply shards on appearance only | Apply immediately when SSR hero appears in Tavern |
+| **—** | Mason | Suspended | Replace when UR Missile Tanker obtained |
 
 ***
 
@@ -191,7 +191,7 @@
 
 ***
 
-## 🪖 Squad 1 — Main Combat (PvP) | Class: Tank 🎯 Lv.125 목표
+## 🪖 Squad 1 — Main Combat (PvP) | Class: Tank 🎯 Target Lv.125
 
 ```
 [ Enemy Direction →→→ ]
@@ -204,7 +204,7 @@ Back  Center: Marshall     (UR Tank/Support  / Lv.120 / ★3)
 Back  Left  : Stetmann     (UR Tank/Dealer   / Lv.120 / ★1)
 ```
 
-> 🎯 목표: 전체 Lv.125 표준화 + Williams/Marshall ★4 + Stetmann ★4
+> 🎯 Goal: All heroes Lv.125 + Williams/Marshall ★4 + Stetmann ★4
 
 ***
 
@@ -213,7 +213,7 @@ Back  Left  : Stetmann     (UR Tank/Dealer   / Lv.120 / ★1)
 ```
 [ Enemy Direction →→→ ]
 
-Front Right : Violet    (SSR Tank/Tanker  / Lv.115 / ★4) ★ 핵심!
+Front Right : Violet    (SSR Tank/Tanker  / Lv.115 / ★4) ★ Core!
 Front Left  : Scarlett  (SSR Tank/Tanker  / Lv.72  / ★1)
 
 Back  Right : Mason     (SSR Tank/Dealer  / Lv.101 / ★4)
@@ -221,7 +221,7 @@ Back  Center: Monica    (SSR Tank/Support / Lv.81  / ★3)
 Back  Left  : Farhad    (SSR Tank/Dealer  / Lv.70  / ★2)
 ```
 
-> ⏳ 선술집에서 영웅 등장 시만 조각 적용 | UR Missile 2명 확보 시 → 전면 Missile 유저 교체 🔄
+> ⏳ Apply shards only when heroes appear in Tavern draws | Full Missile class replacement when 2 UR Missile heroes obtained 🔄
 
 ***
 
@@ -238,4 +238,4 @@ Back  Center: Schuyler     (UR Aircraft/Dealer / Lv.80  / ★0)
 Back  Left  : Morrison     (UR Aircraft/Dealer / Lv.80  / ★0)
 ```
 
-> 🎯 전체 UR 구성 — 모두 Lv.125 목표 (후순위 지속 레벨업)
+> 🎯 Full UR composition — All heroes target Lv.125 (lower priority, continuous leveling)
